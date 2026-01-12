@@ -7,13 +7,6 @@
   <p>Busco por uma <strong>oportunidade de estágio</strong> para aplicar meus conhecimentos, colaborar com equipes experientes e enfrentar novos desafios.</p>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgabrielmateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielmateus&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Gabriel"/>
-</div>
-
 <h3><span style="color: #4682B4;">🌱 Tecnologias que estou aprendendo:</span></h3>
 <p align="left">
   <a href="https://skillicons.dev">
