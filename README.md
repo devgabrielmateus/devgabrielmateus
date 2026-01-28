@@ -10,7 +10,7 @@
 <h3><span style="color: #4682B4;">🌱 Tecnologias que estou aprendendo:</span></h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
   </a>
 </p>
 
