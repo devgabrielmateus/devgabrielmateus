@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> de Santa Catarina (24 anos), construindo minha carreira na área de programação.</p>
+  <p>Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> de Santa Catarina, construindo minha carreira na área de programação.</p>
   <p>Busco por uma <strong>oportunidade de estágio</strong> para aplicar meus conhecimentos, colaborar com equipes experientes e enfrentar novos desafios.</p>
 </div>
 
